@@ -2,10 +2,10 @@ Sales Person,Units Sold,Price,Province,Quality
 A,10,1000,East,Good
 B,1,300,East,Bad
 C,12,900,North,Neutral
-D,4,400,West,Neutral
+D,8,400,West,Neutral
 E,4,500,North,Bad
 F,9,6000,East,Bad
-G,5,500,South,Good
-H,3,1500,South,Excellent
+G,3,500,South,Good
+H,7,1500,South,Excellent
 I,6,4000,South,Excellent
 J,5,2100,East,Good
