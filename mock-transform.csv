@@ -1,14 +1,14 @@
 Sales Person,Units Sold,Price,Province
-A,1,1000,East
-B,2,300,East
-C,3,900,North
-D,4,400,West
-E,5,500,North
-F,6,6000,East
-G,7,500,South
-H,8,1500,South
-I,9,4000,South
-J,10,2100,East
-K,11,200,North
-L,12,500,East
-M,0,0,North
+A,0,0,East
+B,1,300,East
+C,2,900,North
+D,3,400,West
+E,4,500,North
+F,5,6000,East
+G,6,500,South
+H,7,1500,South
+I,8,4000,South
+J,9,2100,East
+K,10,200,North
+L,11,500,East
+M,12,600,North
