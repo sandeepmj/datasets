@@ -1,0 +1,377 @@
+Name,Disaster,Begin Date,End Date,"Total CPI-Adjusted Cost, (Millions of Dollars)",Deaths
+"Southern Severe Storms and Flooding, (April 1980)",Flooding,29321,29328,2664.5,7
+"Hurricane Allen, (August 1980)",Tropical Cyclone,29440,29444,2159.4,13
+"Central/Eastern Drought/Heat Wave, (Summer-Fall 1980)",Drought,29373,29555,39278.4,1260
+"Florida Freeze, (January 1981)",Freeze,29598,29600,2007.7,0
+"Severe Storms, Flash Floods, Hail, Tornadoes, (May 1981)",Severe Storm,29711,29716,1365,20
+"Midwest/Southeast/Northeast Winter Storm, Cold Wave, (January 1982)",Winter Storm,29959,29967,2144.8,85
+"Midwest/Plains/Southeast Tornadoes, (April 1982)",Severe Storm,30043,30045,1556,33
+"Severe Storms, (June 1982)",Severe Storm,30102,30112,1526.1,30
+"Gulf States Storms and Flooding, (December 1982-January 1983)",Flooding,30286,30331,4777.2,45
+"Western Storms and Flooding, (December 1982-March 1983)",Flooding,30298,30406,4663.8,50
+"Hurricane Alicia, (August 1983)",Tropical Cyclone,30545,30548,9120,21
+,,,,,
+"Southeast Drought, (Summer 1983)",Drought,30468,30559,9247.9,0
+"Arizona Flooding, (October 1983)",Flooding,30588,30592,1212,14
+"Freeze / Cold Wave, (December 1983)",Freeze,30665,30675,6258.5,151
+"Tornadoes, Severe Storms, Floods, (Spring 1984)",Severe Storm,30768,30779,1791.6,80
+"Severe Storms and Hail, (June 1984)",Severe Storm,30846,30850,1311.8,1
+"Winter Storm, Cold Wave, (January 1985)",Winter Storm,31066,31069,2418.8,150
+"Florida Freeze, (January 1985)",Freeze,31067,31069,3468,0
+"Ohio and Pennsylvania Tornado Outbreak, (June 1985)",Severe Storm,31198,31198,1704,89
+"Hurricane Elena, (September 1985)",Tropical Cyclone,31289,31293,3671.6,4
+"Hurricane Gloria, (September 1985)",Tropical Cyclone,31316,31318,2414,11
+"Hurricane Juan, (October 1985)",Tropical Cyclone,31347,31351,4205.8,63
+"Virginia, West Virginia, Pennsylvania and Maryland Flooding, (November 1985)",Flooding,31354,31359,3920,62
+"Western Severe Storms and Flooding, (February 1986)",Severe Storm,31457,31459,1478.1,13
+"Southeast Drought/Heat Wave, (Summer 1986)",Drought,31564,31655,5014.1,100
+"Michigan Flooding, (September 1986)",Flooding,31665,31667,1108,10
+"U.S. Drought/Heat Wave, (Summer 1988)",Drought,32295,32386,52810.2,454
+"Southern Derecho and Severe Storms, (May 1989)",Severe Storm,32629,32634,1356.6,21
+"Tropical Storm Allison, (June 1989)",Tropical Cyclone,32685,32687,1439.1,11
+"Hurricane Hugo, (September 1989)",Tropical Cyclone,32772,32773,21959.8,86
+"Northern Plains Drought, (Summer-Fall 1989)",Drought,32660,32842,7568.1,0
+"Florida Freeze, (December 1989)",Freeze,32865,32867,5040,10
+"Winter Storm, Cold Wave, (December 1989)",Winter Storm,32863,32868,1646.1,100
+"Southern Flooding, (May 1990)",Flooding,33004,33012,2376.3,13
+"Colorado Hail Storm, (July 1990)",Severe Storm,33065,33065,1918.9,0
+"Western Fire Season, (Summer 1990)",Wildfire,33025,33116,1658.8,17
+"California Freeze, (December 1990)",Freeze,33225,33232,8126,0
+"Severe Storms, Tornadoes, (March 1991)",Severe Storm,33323,33326,1457.6,0
+"Hurricane Bob, (August 1991)",Tropical Cyclone,33468,33470,3351.5,18
+"U.S. Drought, (Spring-Summer 1991)",Drought,33298,33481,6829.3,0
+"Oakland Firestorm, (October 1991)",Wildfire,33512,33542,7326,25
+"Severe Storms, (March 1992)",Severe Storm,33687,33688,1761.6,0
+"Hail, Tornadoes, (April 1992)",Severe Storm,33722,33723,2090.2,0
+"Severe Storms, Hail, (June 1992)",Severe Storm,33774,33775,1630.6,0
+"Hurricane Andrew, (August 1992)",Tropical Cyclone,33839,33843,58590,61
+"Hurricane Iniki, (September 1992)",Tropical Cyclone,33858,33859,6696,7
+"Southeast Severe Weather, (November 1992)",Severe Storm,33929,33931,1412.8,26
+"Northeast Winter Storm, (December 1992)",Winter Storm,33948,33951,5338.7,19
+"East Coast Blizzard and Severe Weather, (March 1993)",Winter Storm,34039,34042,11772.6,270
+,,,,,
+"Northern Plains and Ohio Valley Severe Weather, (July 1993)",Severe Storm,34158,34160,1358.8,1
+"Midwest Flooding, (Summer 1993)",Flooding,34147,34196,44856.2,48
+"Southeast Drought and Heat Wave, (Summer 1993)",Drought,34121,34212,2692.3,16
+"California Wildfires, (Fall 1993)",Wildfire,34213,34303,2880.2,4
+"Winter Storm, Cold Wave, (January 1994)",Winter Storm,34351,34354,2173.6,70
+"Southeast Ice Storm, (February 1994)",Winter Storm,34373,34378,6235,9
+"Midwest/Plains Tornadoes, (April 1994)",Severe Storm,34449,34451,2039.2,3
+"Tropical Storm Alberto, (July 1994)",Tropical Cyclone,34522,34525,2057,32
+"Texas Flooding, (October 1994)",Flooding,34623,34632,2040,19
+"Western Fire Season, (Summer-Fall 1994)",Wildfire,34486,34668,1493.5,0
+"California Flooding, (January-March 1995)",Flooding,34700,34789,5075,27
+"Texas Hail Storm, (April 1995)",Severe Storm,34817,34817,1155.8,0
+"South Plains Severe Weather, (May 1995)",Severe Storm,34824,34826,10972.9,32
+"Hurricane Erin, (August 1995)",Tropical Cyclone,34912,34918,1700,6
+"Hurricane Marilyn, (September 1995)",Tropical Cyclone,34957,34959,4179,13
+"Central, Southern and Northeast Drought/Heat Wave, (September 1995)",Drought,34881,34972,1958.6,872
+"Hurricane Opal, (October 1995)",Tropical Cyclone,34976,34978,9331.1,27
+,,,,,
+"Blizzard/Floods, (January 1996)",Winter Storm,35065,35095,5946.1,187
+"Pacific Northwest Severe Flooding, (February 1996)",Flooding,35102,35107,1996.5,9
+"Southern Plains Drought, (Spring-Summer 1996)",Drought,35125,35308,3547.1,0
+"Hurricane Fran, (September 1996)",Tropical Cyclone,35313,35316,9663.6,37
+"New England Flooding, (October 1996)",Flooding,35357,35360,1304.7,1
+"West Coast Flooding, (December 1996-January 1997)",Flooding,35431,35441,5792.6,36
+"Mississippi and Ohio Valley Severe Weather and Flooding, (March 1997)",Severe Storm,35489,35494,1866.8,67
+"Northern Plains Flooding, (Spring 1997)",Flooding,35464,35574,7022.1,11
+"Northeast Ice Storm, (January 1998)",Winter Storm,35800,35804,2649.4,16
+"Western/Eastern Severe Weather and Flooding, (Winter-Spring 1998)",Severe Storm,35765,35854,1898.5,132
+"Minnesota Severe Storms/Hail, (May 1998)",Severe Storm,35930,35930,3050.4,1
+"Northern Plains and Great Lakes Derecho, Tornadoes, (June 1998)",Severe Storm,35945,35948,2128.7,20
+"Central and Eastern Severe Storms and Flooding, (June 1998)",Severe Storm,35966,35970,1672.2,12
+"Tropical Storm Frances, (September 1998)",Tropical Cyclone,36015,36020,1309,2
+"Hurricane Bonnie, (August 1998)",Tropical Cyclone,36034,36036,1832.7,3
+"Southern Drought and Heat Wave, (Summer 1998)",Drought,35947,36038,6668.1,200
+"Hurricane Georges, (September 1998)",Tropical Cyclone,36058,36067,11131.2,16
+"Texas Flooding, (October 1998)",Flooding,36084,36092,1752.3,31
+"California Freeze, (December 1998)",Freeze,36149,36157,4725,0
+"Central and Eastern Winter Storm, (January 1999)",Winter Storm,36161,36164,1920.3,25
+"Central and Eastern Winter Storm, (Mid-January 1999)",Winter Storm,36173,36176,1640.8,0
+,,,,,
+,,,,,
+"Oklahoma and Kansas Tornadoes, (May 1999)",Severe Storm,36283,36286,3702.3,55
+"Eastern Drought/Heat Wave, (Summer 1999)",Drought,36312,36403,4647.9,502
+"Hurricane Floyd, (September 1999)",Tropical Cyclone,36417,36419,11813.5,77
+"Southeast Winter Storm, (January 2000)",Winter Storm,36546,36549,1278,4
+"Southern Severe Weather, (March 2000)",Severe Storm,36613,36614,1228.2,0
+"Western Fire Season, (Spring-Summer 2000)",Wildfire,36586,36769,1913.5,0
+"South Florida Flooding, (October 2000)",Flooding,36802,36803,1575,3
+"Western/Central/Southeast Drought/Heat Wave, (Spring-Fall 2000)",Drought,36586,36860,9045.1,140
+"Midwest/Ohio Valley Hail and Tornadoes, (April 2001)",Severe Storm,36987,36992,5323.1,3
+"North Central Severe Weather, (May 2001)",Severe Storm,37011,37012,1154.2,0
+"Tropical Storm Allison, (June 2001)",Tropical Cyclone,37047,37059,14572.7,43
+"Severe Storms and Tornadoes, (April 2002)",Severe Storm,37373,37374,3559.4,7
+"Hurricane Lili, (October 2002)",Tropical Cyclone,37469,37473,1866.6,2
+"Tropical Storm Isidore, (September 2002)",Tropical Cyclone,37524,37526,1943.5,5
+"Eastern Tornadoes and Severe Storms, (November 2002)",Severe Storm,37569,37571,1209.6,28
+"U.S. Drought, (Spring-Fall 2002)",Drought,37316,37590,15491.2,0
+"Western Fire Season, (Fall 2002)",Wildfire,37500,37590,2235.6,21
+"Severe Storms/Hail, (April 2003)",Severe Storm,37715,37718,3330.5,3
+"Severe Storms/Tornadoes, (May 2003)",Severe Storm,37744,37751,6853.2,51
+"Midwest/Plains Severe Weather, (July 2003)",Severe Storm,37806,37811,1424.5,7
+"Southern Derecho and Eastern Severe Weather, (July 2003)",Severe Storm,37823,37825,1673.5,7
+"Hurricane Isabel, (September 2003)",Tropical Cyclone,37882,37883,9048.6,55
+"California Wildfires, (Fall 2003)",Wildfire,37865,37955,6419.2,22
+"Western/Central Drought/Heat Wave, (Spring-Fall 2003)",Drought,37681,37955,8429.7,35
+"Severe Storms, Hail, Tornadoes, (May 2004)",Severe Storm,38128,38134,1632.4,4
+"Colorado Hail Storms, (June 2004)",Severe Storm,38146,38147,1119,0
+"Hurricane Charley, (August 2004)",Tropical Cyclone,38212,38213,25759.2,35
+"Hurricane Frances, (September 2004)",Tropical Cyclone,38233,38239,15777.9,48
+"Hurricane Ivan, (September 2004)",Tropical Cyclone,38242,38251,33005.8,57
+"Hurricane Jeanne, (September 2004)",Tropical Cyclone,38245,38259,12069.4,28
+"Southeast Severe Weather, (March 2005)",Severe Storm,38435,38438,1366.7,0
+"Hurricane Dennis, (July 2005)",Tropical Cyclone,38542,38544,3892.3,15
+"Hurricane Katrina, (August 2005)",Tropical Cyclone,38589,38594,193795.7,1833
+"Midwest Drought, (Spring-Summer 2005)",Drought,38412,38595,2359.6,0
+"Hurricane Rita, (September 2005)",Tropical Cyclone,38615,38619,28305.2,119
+"Hurricane Wilma, (October 2005)",Tropical Cyclone,38649,38649,29070,35
+"Severe Storms and Tornadoes, (March 2006)",Severe Storm,38784,38789,2046.5,10
+"Midwest/Southeast Tornadoes, (April 6-8, 2006)",Severe Storm,38813,38815,2421.8,10
+"Midwest Tornadoes, (April 2006)",Severe Storm,38820,38823,3659.5,27
+"Northeast Flooding, (June 2006)",Flooding,38893,38896,2282.4,20
+"North Central Severe Weather and Tornadoes, (August 2006)",Severe Storm,38952,38953,1138.5,1
+,,,,,
+,,,,,
+,,,,,
+"Midwest/Plains/Southeast Drought, (Spring-Summer 2006)",Drought,38777,38960,9236.5,0
+"Central Severe Weather, (October 2006)",Severe Storm,38992,38995,1327.5,1
+"Numerous Wildfires, (2006)",Wildfire,38718,39082,2259.1,28
+"California Freeze, (January 2007)",Freeze,39093,39099,2114,1
+"Spring Freeze, (April 2007)",Freeze,39176,39182,3086.6,0
+"East/South Severe Weather and Flooding, (April 2007)",Severe Storm,39185,39189,3711.5,9
+"Western Wildfires, (Summer 2007)",Wildfire,39234,39325,4002.5,12
+"Western/Eastern Drought/Heat Wave, (Summer-Fall 2007)",Drought,39234,39416,5342.7,15
+"Western, Central and Northeast Severe Weather, (January 2008)",Severe Storm,39451,39456,1424.2,12
+"Southeast Tornadoes and Severe Weather, (February 2008)",Severe Storm,39483,39484,1744.8,57
+"Southeast Tornadoes, (March 2008)",Severe Storm,39521,39522,1617.3,5
+"Southern Severe Weather, (April 2008)",Severe Storm,39547,39549,1476.2,2
+"Midwest Tornadoes and Severe Weather, (May 2008)",Severe Storm,39590,39595,4271.6,13
+"Midwest/Mid-Atlantic Severe Weather, (June 2008)",Severe Storm,39605,39611,2273.9,18
+"Midwest Flooding, (Summer 2008)",Flooding,39539,39629,14439.8,24
+"Hurricane Dolly, (July 2008)",Tropical Cyclone,39652,39654,1761.5,3
+"Hurricane Gustav, (September 2008)",Tropical Cyclone,39691,39694,8335.8,53
+"Hurricane Ike, (September 2008)",Tropical Cyclone,39703,39705,41698.3,112
+"U.S. Wildfires, (Fall 2008)",Wildfire,39692,39782,1715.3,16
+"U.S. Drought, (2008)",Drought,39448,39813,10164.6,0
+"Southeast/Ohio Valley Severe Weather, (February 2009)",Severe Storm,39854,39855,2506,10
+"Midwest/Southeast Tornadoes, (March 2009)",Severe Storm,39897,39900,2346,0
+"South/Southeast Severe Weather and Tornadoes, (April 2009)",Severe Storm,39912,39913,2045,6
+"Central Derecho and Tornadoes, (May 2009)",Severe Storm,39940,39942,1231.3,7
+"Midwest, South and East Severe Weather, (June 2009)",Severe Storm,39973,39976,1872.6,0
+"Colorado Hail Storm, (July 2009)",Severe Storm,40014,40014,1420,0
+"Georgia Flooding, (September 2009)",Flooding,40075,40078,1266.9,10
+"Western Wildfires, (Summer-Fall 2009)",Wildfire,39965,40147,1426.7,10
+"Southwest/Great Plains Drought, (2009)",Drought,39814,40178,5063.4,0
+"Northeast Winter Storm, (February 2010)",Winter Storm,40218,40220,1152.1,3
+"Northeast Flooding, (March 2010)",Flooding,40238,40268,2600.3,11
+"East/South Flooding and Severe Weather, (May 2010)",Flooding,40298,40300,3195.4,32
+"Oklahoma, Kansas, and Texas Tornadoes and Severe Weather, (May 2010)",Severe Storm,40308,40310,4667.3,3
+"Rockies/Central/East Severe Weather, (June 2010)",Severe Storm,40339,40344,1261.4,2
+"Midwest/Northeast Severe Storms and Flooding, (July 2010)",Severe Storm,40379,40382,1327.7,0
+"Arizona Severe Weather, (October 2010)",Severe Storm,40456,40457,5320,0
+"Groundhog Day Blizzard, (February 2011)",Winter Storm,40575,40577,2493.9,36
+"Midwest/Southeast Tornadoes and Derecho, (April 2011)",Severe Storm,40637,40638,3774.3,9
+"Southeast/Midwest Tornadoes, (April 2011)",Severe Storm,40641,40644,2963.8,0
+"Midwest/Southeast Tornadoes, (April 2011)",Severe Storm,40647,40649,2800.5,38
+"Ohio Valley Derecho and Southern Tornadoes, (April 2011)",Severe Storm,40652,40653,1411,0
+"Southeast/Ohio Valley/Midwest Tornadoes, (April 2011)",Severe Storm,40658,40661,13901.8,321
+"Midwest/Southeast Tornadoes, (May 2011)",Severe Storm,40685,40690,12280.6,177
+"Mississippi River flooding, (April-May 2011)",Flooding,40634,40694,4150.5,7
+"Midwest/Southeast Tornadoes and Severe Weather, (June 2011)",Severe Storm,40712,40716,2075.2,3
+"Missouri River flooding, (May-June 2011)",Flooding,40664,40724,2783.3,5
+"North Central Severe Weather, (July 1, 2011)",Severe Storm,40725,40725,1198.9,0
+"Rockies and Midwest Derecho, (July 10-11, 2011)",Severe Storm,40734,40735,1667.2,2
+"Midwest/Southeast Severe Weather, (August 17-18, 2011)",Severe Storm,40772,40773,1554.5,0
+"Hurricane Irene, (August 2011)",Tropical Cyclone,40781,40783,18216.9,45
+"Southern Plains/Southwest Drought and Heat Wave, (Spring-Summer 2011)",Drought,40603,40786,16631.1,95
+"Tropical Storm Lee, (September 2011)",Tropical Cyclone,40787,40791,3366.8,21
+"Northeastern Winter Storm, (October 2011)",Winter Storm,40845,40846,1248.9,1
+"Texas, New Mexico, Arizona Wildfires, (Summer-Fall 2011)",Wildfire,40695,40877,2458.1,5
+"Southeast/Ohio Valley Tornadoes, (March 2012)",Severe Storm,40970,40971,4161.2,42
+"Texas Tornadoes, (April 2012)",Severe Storm,41001,41002,1350.3,0
+"Midwest Tornadoes, (April 2012)",Severe Storm,41012,41013,1494.4,6
+"Midwest/Ohio Valley Severe Weather, (April-May 2012)",Severe Storm,41027,41030,4357.4,1
+"Southern Plains/Midwest/Northeast Severe Weather, (May 2012)",Severe Storm,41054,41059,3063.9,1
+"Rockies/Southwest Severe Weather, (June 2012)",Severe Storm,41066,41072,3455.1,0
+"Plains/East/Northeast Derecho, (June-July 2012)",Severe Storm,41089,41092,3841.7,28
+"Hurricane Isaac, (August 2012)",Tropical Cyclone,41147,41152,3647.9,9
+"Hurricane Sandy, (October 2012)",Tropical Cyclone,41212,41213,85852.4,159
+"Western Wildfires, (Summer-Fall 2012)",Wildfire,41061,41243,2312.1,8
+"U.S. Drought/Heat Wave, (2012)",Drought,40909,41274,40504.8,123
+"Southern Severe Weather, (February 2013)",Severe Storm,41329,41330,1207.9,1
+"Southeast Severe Weather, (March 2013)",Severe Storm,41351,41351,2646.2,1
+"Midwest/Plains Severe Weather, (April 2013)",Severe Storm,41371,41375,1891.7,1
+"Illinois Flooding and Severe Weather, (April 2013)",Flooding,41380,41383,1411,4
+"Midwest/Plains/East Tornadoes, (May 2013)",Severe Storm,41412,41416,3144.4,27
+"Midwest/Plains/Northeast Tornadoes, (May 2013)",Severe Storm,41421,41425,2375.7,10
+"Midwest Severe Weather, (August 2013)",Severe Storm,41492,41493,1354.5,0
+"Colorado Flooding, (September 2013)",Flooding,41527,41533,1961.1,9
+"Ohio Valley Tornadoes, (November 2013)",Severe Storm,41595,41595,1428.6,8
+"Western/Plains Drought/Heat Wave, (Spring-Fall 2013)",Drought,41334,41608,13762.1,53
+"Midwest/Southeast/Northeast Winter Storm, (January 2014)",Winter Storm,41644,41647,2824.8,16
+"Plains Severe Weather, (April 2014)",Severe Storm,41731,41732,1836.9,0
+"Central Severe Weather, (April 2014)",Severe Storm,41741,41742,1184.3,0
+"Midwest/Southeast/Northeast Tornadoes and Flooding, (April 2014)",Severe Storm,41756,41760,2239.7,33
+"Center Severe Weather, (May 2014)",Severe Storm,41769,41773,1091.8,0
+"Rockies/Midwest/Eastern Severe Weather, (May 2014)",Severe Storm,41777,41782,4752.9,0
+"Rockies/Central Plains Severe Weather, (June 2014)",Severe Storm,41793,41795,2456.6,2
+"Michigan and Northeast Flooding, (August 2014)",Flooding,41862,41864,1320.6,2
+"Rockies/Plains Severe Weather, (September 2014)",Severe Storm,41911,41914,1792.6,0
+"Western Drought, (2014)",Drought,41640,42004,5137.4,0
+"Central and Eastern Winter storm, Cold Wave, (February 2015)",Winter Storm,42049,42055,3850.7,30
+"Midwest/Ohio Valley Severe Weather, (April 2015)",Severe Storm,42101,42103,2006.7,2
+"South/Southeast Severe Weather, (April 2015)",Severe Storm,42112,42114,1656.4,0
+"South and Southeast Severe Weather, (April 2015)",Severe Storm,42118,42119,1218,3
+"Southern Plains Tornadoes, (May 2015)",Severe Storm,42130,42134,1628.3,4
+"Texas and Oklahoma Flooding and Severe Weather, (May 2015)",Flooding,42147,42150,3275.4,31
+"Central and Northeast Severe Weather, (June 2015)",Severe Storm,42176,42180,1500.1,1
+"South Carolina and East Coast Flooding, (October 2015)",Flooding,42278,42282,2557.7,25
+"Western and Alaskan Wildfires, (Summer-Fall 2015)",Wildfire,42156,42338,3875.9,12
+"Texas Tornadoes and Midwest Flooding, (December 2015)",Severe Storm,42364,42367,2530.9,50
+"Western Drought, (2015)",Drought,42005,42369,5850.6,0
+"Southeast and Eastern Tornadoes, (February 2016)",Severe Storm,42422,42424,1341.6,10
+"Texas and Louisiana Flooding, (March 2016)",Flooding,42437,42441,2960.3,5
+"Southern Severe Weather, (March 2016)",Severe Storm,42446,42447,1549.1,1
+"North Texas Hail Storm, (March 2016)",Severe Storm,42452,42453,2642.9,0
+"North/Central Texas Hail Storm, (April 2016)",Severe Storm,42470,42472,4478.2,0
+"Houston Flooding, (April 2016)",Flooding,42477,42478,3452,8
+"South/Southeast Tornadoes, (April 2016)",Severe Storm,42486,42492,3064.9,6
+"Plains Tornadoes and Central Severe Weather, (May 2016)",Severe Storm,42498,42501,2184,2
+"Rockies/Central Tornadoes and Severe Weather, (May 2016)",Severe Storm,42511,42516,1455.8,0
+"West Virginia Flooding and Ohio Valley Tornadoes, (June 2016)",Flooding,42543,42545,1249.7,23
+"Rockies and Northeast Severe Weather, (July 2016)",Severe Storm,42579,42581,1861.2,0
+"Louisiana Flooding, (August 2016)",Flooding,42594,42597,12900,13
+"Hurricane Matthew, (October 2016)",Tropical Cyclone,42651,42655,12600,49
+"West/Northeast/Southeast Drought, (2016)",Drought,42370,42735,4442.2,0
+"Western/Southeast Wildfires, (Summer-Fall 2016)",Wildfire,42522,42735,3041.8,21
+"Southern Tornado Outbreak and Western Storms, (January 2017)",Severe Storm,42755,42757,1392.3,24
+"California Flooding, (February 2017)",Flooding,42774,42788,1890,5
+"Central/Southeast Tornado Outbreak, (March 2017)",Severe Storm,42794,42795,2257.9,6
+"Midwest Tornado Outbreak, (March 2017)",Severe Storm,42800,42802,2720.2,2
+"Southeast Freeze, (March 2017)",Freeze,42808,42810,1260,0
+"South/Southeast Severe Weather, (March 2017)",Severe Storm,42820,42822,3368.8,0
+"Southeast Severe Weather and Tornadoes, (April 2017)",Severe Storm,42829,42831,1220.3,1
+"South and Southeast Severe Weather, (April 2017)",Severe Storm,42845,42847,1116.3,0
+"Missouri and Arkansas Flooding and Central Severe Weather, (May 2017)",Flooding,42850,42862,2090.3,20
+"Colorado Hail Storm and Central Severe Weather, (May 2017)",Severe Storm,42863,42866,4187.5,0
+"North Central Severe Weather and Tornadoes, (May 2017)",Severe Storm,42870,42873,1176.5,1
+"Minnesota Hail Storm and Upper Midwest Severe Weather, (June 2017)",Severe Storm,42895,42897,2937.5,0
+"Midwest Severe Weather, (June 2017)",Severe Storm,42898,42902,1886.5,0
+"Midwest Severe Weather, (June 2017)",Severe Storm,42913,42915,1781.3,0
+"Hurricane Harvey, (August 2017)",Tropical Cyclone,42972,42978,155000,89
+,,,,,
+"Hurricane Irma, (September 2017)",Tropical Cyclone,42984,42990,62000,97
+"Hurricane Maria, (September 2017)",Tropical Cyclone,42997,42999,111600,2981
+"Western Wildfires, California Firestorm, (Summer-Fall 2017)",Wildfire,42887,43100,22506.3,54
+"North Dakota, South Dakota and Montana Drought, (Spring-Fall 2017)",Drought,42795,43100,3150,0
+"Central and Eastern Winter Storm, (January 2018)",Winter Storm,43103,43105,1283,22
+"Northeast Winter Storm, (March 2018)",Winter Storm,43160,43162,2698.7,9
+"Southeastern Tornadoes and Severe Weather, (March 2018)",Severe Storm,43177,43180,1786.1,0
+"Southern and Eastern Tornadoes and Severe Weather, (April 2018)",Severe Storm,43203,43206,1608,3
+"Central and Northeast Severe Weather, (May 2018)",Severe Storm,43221,43224,1695.8,0
+"Central and Eastern Severe Weather, (May 2018)",Severe Storm,43233,43235,1671.5,5
+"Texas Hail Storm, (June 2018)",Severe Storm,43257,43257,1573,0
+"Colorado Hail Storm, (June 2018)",Severe Storm,43264,43264,1155.6,0
+"Colorado Hail Storm, (June 2018)",Severe Storm,43269,43270,2689.8,0
+"Central and Eastern Tornadoes and Severe Weather, (July 2018)",Severe Storm,43300,43303,1918.1,0
+"Mountain West Severe Weather, (July 2018)",Severe Storm,43307,43310,1029.7,0
+"Rockies and Plains Hail Storms, (August 2018)",Severe Storm,43318,43319,1240.4,0
+"Hurricane Florence, (September 2018)",Tropical Cyclone,43356,43359,29040,53
+"Hurricane Michael, (October 2018)",Tropical Cyclone,43383,43384,30219.8,49
+"Southwest/Southern Plains Drought, (Summer-Fall 2018)",Drought,43252,43464,3677.8,0
+"Western Wildfires, California Firestorm, (Summer-Fall 2018)",Wildfire,43252,43465,29040,106
+"Southeast, Ohio Valley and Northeast Severe Weather, (February 2019)",Severe Storm,43519,43521,1497.4,2
+"Texas Hail Storm, (March 2019)",Severe Storm,43546,43548,1842,0
+"Missouri River and North Central Flooding, (March 2019)",Flooding,43538,43555,12979.8,3
+"Southern and Eastern Tornadoes and Severe Weather, (April 2019)",Severe Storm,43568,43569,1489.9,7
+"South and Southeast Severe Weather, (May 2019)",Severe Storm,43592,43598,1801.9,0
+"Central Severe Weather, (May 2019)",Severe Storm,43601,43603,1157.9,0
+"Rockies, Central and Northeast Tornadoes and Severe Weather, (May 2019)",Severe Storm,43611,43614,5352.7,3
+"Arkansas River Flooding, (June 2019)",Flooding,43605,43630,3599.8,5
+"Colorado Hail Storms, (July 2019)",Severe Storm,43650,43651,1199.5,0
+"Mississippi River, Midwest and Southern Flooding, (July 2019)",Flooding,43539,43677,7402.8,4
+"Hurricane Dorian, (September 2019)",Tropical Cyclone,43705,43714,1915.9,10
+"Tropical Storm Imelda, (September 2019)",Tropical Cyclone,43725,43729,5950,5
+"Texas Tornadoes and Central Severe Weather, (October 2019)",Severe Storm,43758,43758,2044.4,2
+"California and Alaska Wildfires, (Summer-Fall 2019)",Wildfire,43617,43799,5355,3
+"Southeast Tornadoes and Northern Storms and Flooding, (January 2020)",Severe Storm,43840,43842,1355.8,10
+"South, East and Northeast Severe Weather, (February 2020)",Severe Storm,43866,43868,1482.2,3
+"Tennessee Tornadoes and Southeast Severe Weather, (March 2020)",Severe Storm,43892,43894,2756.4,25
+"Midwest and Ohio Valley Severe Weather, (March 2020)",Severe Storm,43917,43918,3018.3,0
+"North Central and Ohio Valley Hail Storms and Severe Weather, (April 2020)",Severe Storm,43928,43929,3428.7,0
+"Southeast and Eastern Tornado Outbreak, (April 2020)",Severe Storm,43933,43934,4098.4,35
+"Southern Severe Weather, (April 2020)",Severe Storm,43942,43944,1606.6,3
+"Central, Southern and Eastern Severe Weather, (April 2020)",Severe Storm,43948,43951,1222.1,1
+"Central and Eastern Severe Weather, (May 2020)",Severe Storm,43954,43956,2514.4,2
+"South, Central and Eastern Severe Weather, (May 2020)",Severe Storm,43971,43974,1885.1,2
+"South Texas Hail Storms, (May 2020)",Severe Storm,43978,43978,1666,0
+"Central Severe Weather, (July 2020)",Severe Storm,44022,44023,1411.3,0
+"Hurricane Hanna, (July 2020)",Tropical Cyclone,44037,44038,1257.8,0
+"Hurricane Isaias, (August 2020)",Tropical Cyclone,44046,44047,5565.9,16
+"Central Severe Weather - Derecho, (August 2020)",Severe Storm,44053,44053,13011.9,4
+"Hurricane Laura, (August 2020)",Tropical Cyclone,44070,44071,27161.7,42
+"Hurricane Sally, (September 2020)",Tropical Cyclone,44089,44091,8510.6,5
+"Hurricane Delta, (October 2020)",Tropical Cyclone,44113,44115,3354.6,5
+"Hurricane Zeta, (October 2020)",Tropical Cyclone,44132,44133,5091.9,6
+"Tropical Storm Eta, (November 2020)",Tropical Cyclone,44143,44147,1708.3,12
+"Western/Central Drought and Heat Wave, (Summer-Fall 2020)",Drought,43983,44195,5259.3,45
+"Western Wildfires - California, Oregon, Washington Firestorms, (Fall 2020)",Wildfire,44044,44195,19246.5,46
+,,,,,
+,,,,,
+"California Flooding and Severe Weather, (January 2021)",Flooding,44220,44225,1281.2,2
+"Northwest, Central, Eastern Winter Storm and Cold Wave, (February 2021)",Winter Storm,44237,44246,26315.8,262
+"Southeast Tornadoes and Severe Weather, (March 2021)",Severe Storm,44279,44280,1928.8,6
+"Eastern Severe Weather, (March 2021)",Severe Storm,44282,44283,1548.2,8
+"Texas Hail Storms, (April 2021)",Severe Storm,44298,44301,1696.3,0
+"Texas and Oklahoma Severe Weather, (April 2021)",Severe Storm,44313,44314,3621.4,0
+"Southern Tornadoes and Southeast Severe Weather, (May 2021)",Severe Storm,44318,44320,1428.6,4
+"Louisiana Flooding, (May 2021)",Flooding,44333,44334,1516.9,5
+"Ohio Valley Hail Storms, (June 2021)",Severe Storm,44364,44365,1911.8,0
+"Central Severe Storms, (June 2021)",Severe Storm,44371,44373,1403.5,0
+"Tropical Storm Elsa, (July 2021)",Tropical Cyclone,44384,44386,1358.6,1
+"Central Severe Storms, (July 2021)",Severe Storm,44385,44388,1209.6,0
+"North Central Severe Weather, (August 2021)",Severe Storm,44418,44421,1438.1,2
+"Tropical Storm Fred, (August 2021)",Tropical Cyclone,44424,44426,1430.2,7
+"Hurricane Ida, (August 2021)",Tropical Cyclone,44437,44440,82400.7,96
+"Hurricane Nicholas, (September 2021)",Tropical Cyclone,44453,44457,1137.9,0
+"Southeast, Central Tornado Outbreak, (December 2021)",Severe Storm,44540,44540,4306.5,93
+"Midwest Derecho and Tornado Outbreak, (December 2021)",Severe Storm,44545,44545,1960.2,1
+"Western Wildfires, (2021)",Wildfire,44348,44561,11648,8
+"Western Drought and Heat Wave, (2021)",Drought,44197,44561,9864.5,229
+"Texas Hail Storms, (February 2022)",Severe Storm,44613,44614,1088.6,0
+"Southern Tornado Outbreak, (March 2022)",Severe Storm,44650,44650,1331.4,2
+"Southeast Tornado Outbreak, (April 2022)",Severe Storm,44655,44657,1501.9,3
+"Southern Severe Weather, (April 2022)",Severe Storm,44662,44664,2835.5,1
+"Southern and Central Severe Weather, (May 2022)",Severe Storm,44682,44684,1184.5,1
+"North Central Hail Storms, (May 2022)",Severe Storm,44690,44690,2289.6,0
+"North Central Severe Weather, (May 2022)",Severe Storm,44692,44693,2868.3,1
+"North Central Hail Storms, (May 2022)",Severe Storm,44700,44700,2528.2,0
+"Central Severe Weather, (June 2022)",Severe Storm,44719,44720,1968.5,0
+"Central Derecho, (June 2022)",Severe Storm,44725,44725,3342.8,1
+"North Central and Eastern Severe Weather, (July 2022)",Severe Storm,44764,44766,1380.3,1
+"Kentucky and Missouri Flooding, (July 2022)",Flooding,44768,44770,1509,42
+"Hurricane Fiona, (September 2022)",Tropical Cyclone,44821,44822,2585.3,25
+"Hurricane Ian, (September 2022)",Tropical Cyclone,44832,44834,115154,152
+"Hurricane Nicole, (November 2022)",Tropical Cyclone,44875,44876,1040.4,5
+"Western Wildfires, (Spring-Fall 2022)",Wildfire,44652,44895,3203.5,17
+"Central and Eastern Winter Storm and Cold Wave, (December 2022)",Winter Storm,44916,44921,8614,87
+"Western/Central Drought and Heat Wave, (2022)",Drought,44562,44926,22852,136
+"Northeastern Winter Storm / Cold Wave, (February 2023)",Winter Storm,44959,44962,1766.6,1
+"Southern and Eastern Severe Weather, (March 2023)",Severe Storm,44987,44988,6064.2,13
+,,,,,
+,,,,,
+"California Flooding, (December 2022 - March 2023)",Flooding,44921,45004,4590,22
+"Southern and Eastern Severe Weather, (April 2023)",Severe Storm,45009,45011,1949.4,23
+"Central Tornado Outbreak and Eastern Severe Weather, (March 2023)",Severe Storm,45016,45017,5420.9,33
+"Central and Eastern Severe Weather, (April 2023)",Severe Storm,45020,45022,2831.2,5
+"Central and Southern Severe Weather, (April 2023)",Severe Storm,45031,45031,1139.5,0
+"Central Severe Weather, (April 2023)",Severe Storm,45035,45036,1908.1,1
+"Southern Severe Weather, (April 2023)",Severe Storm,45041,45043,1111.1,0
+"Central Severe Weather, (May 2023)",Severe Storm,45052,45054,1089,1
+"Central and Eastern Tornadoes and Hail Storms, (May 2023)",Severe Storm,45056,45058,2394,1
+"Texas Hail Storms, (May 2023)",Severe Storm,45064,45065,1010,0
+"Southern Severe Weather, (June 2023)",Severe Storm,45088,45091,2601,0
+"Central and Southern Severe Weather, (June 2023)",Severe Storm,45092,45095,2582,5
+"Rockies Hail Storms and Central and Eastern Severe Weather, (June 2023)",Severe Storm,45098,45103,3292,8
