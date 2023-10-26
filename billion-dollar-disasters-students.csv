@@ -8,11 +8,11 @@ Name,Disaster,Begin Date,End Date,"Total CPI-Adjusted Cost, (Millions of Dollars
 "Midwest/Plains/Southeast Tornadoes, (April 1982)",Severe Storm,30043,30045,1556,33
 "Severe Storms, (June 1982)",Severe Storm,30102,30112,1526.1,30
 "Gulf States Storms and Flooding, (December 1982-January 1983)",Flooding,30286,30331,4777.2,45
-"Western Storms and Flooding, (December 1982-March 1983)",Flooding,30298,30406,4663.8,50
+"Western Storms and Flooding, (December 1982-March 1983)",Flooding   ,30298,30406,4663.8,50
 "Hurricane Alicia, (August 1983)",Tropical Cyclone,30545,30548,9120,21
 ,,,,,
 "Southeast Drought, (Summer 1983)",Drought,30468,30559,9247.9,0
-"Arizona Flooding, (October 1983)",Flooding,30588,30592,1212,14
+"Arizona Flooding, (October 1983)",  Flooding,30588,30592,1212,14
 "Freeze / Cold Wave, (December 1983)",Freeze,30665,30675,6258.5,151
 "Tornadoes, Severe Storms, Floods, (Spring 1984)",Severe Storm,30768,30779,1791.6,80
 "Severe Storms and Hail, (June 1984)",Severe Storm,30846,30850,1311.8,1
@@ -41,11 +41,11 @@ Name,Disaster,Begin Date,End Date,"Total CPI-Adjusted Cost, (Millions of Dollars
 "Hurricane Bob, (August 1991)",Tropical Cyclone,33468,33470,3351.5,18
 "U.S. Drought, (Spring-Summer 1991)",Drought,33298,33481,6829.3,0
 "Oakland Firestorm, (October 1991)",Wildfire,33512,33542,7326,25
-"Severe Storms, (March 1992)",Severe Storm,33687,33688,1761.6,0
+"Severe Storms, (March 1992)", Severe Storm,33687,33688,1761.6,0
 "Hail, Tornadoes, (April 1992)",Severe Storm,33722,33723,2090.2,0
 "Severe Storms, Hail, (June 1992)",Severe Storm,33774,33775,1630.6,0
 "Hurricane Andrew, (August 1992)",Tropical Cyclone,33839,33843,58590,61
-"Hurricane Iniki, (September 1992)",Tropical Cyclone,33858,33859,6696,7
+"Hurricane Iniki, (September 1992)",Tropical   Cyclone,33858,33859,6696,7
 "Southeast Severe Weather, (November 1992)",Severe Storm,33929,33931,1412.8,26
 "Northeast Winter Storm, (December 1992)",Winter Storm,33948,33951,5338.7,19
 "East Coast Blizzard and Severe Weather, (March 1993)",Winter Storm,34039,34042,11772.6,270
@@ -56,10 +56,10 @@ Name,Disaster,Begin Date,End Date,"Total CPI-Adjusted Cost, (Millions of Dollars
 "California Wildfires, (Fall 1993)",Wildfire,34213,34303,2880.2,4
 "Winter Storm, Cold Wave, (January 1994)",Winter Storm,34351,34354,2173.6,70
 "Southeast Ice Storm, (February 1994)",Winter Storm,34373,34378,6235,9
-"Midwest/Plains Tornadoes, (April 1994)",Severe Storm,34449,34451,2039.2,3
+"Midwest/Plains Tornadoes, (April 1994)",Severe     Storm,34449,34451,2039.2,3
 "Tropical Storm Alberto, (July 1994)",Tropical Cyclone,34522,34525,2057,32
 "Texas Flooding, (October 1994)",Flooding,34623,34632,2040,19
-"Western Fire Season, (Summer-Fall 1994)",Wildfire,34486,34668,1493.5,0
+"Western Fire Season, (Summer-Fall 1994)",Wildfire ,34486,34668,1493.5,0
 "California Flooding, (January-March 1995)",Flooding,34700,34789,5075,27
 "Texas Hail Storm, (April 1995)",Severe Storm,34817,34817,1155.8,0
 "South Plains Severe Weather, (May 1995)",Severe Storm,34824,34826,10972.9,32
@@ -108,10 +108,10 @@ Name,Disaster,Begin Date,End Date,"Total CPI-Adjusted Cost, (Millions of Dollars
 "Eastern Tornadoes and Severe Storms, (November 2002)",Severe Storm,37569,37571,1209.6,28
 "U.S. Drought, (Spring-Fall 2002)",Drought,37316,37590,15491.2,0
 "Western Fire Season, (Fall 2002)",Wildfire,37500,37590,2235.6,21
-"Severe Storms/Hail, (April 2003)",Severe Storm,37715,37718,3330.5,3
+"Severe Storms/Hail, (April 2003)",Severe  Storm,37715,37718,3330.5,3
 "Severe Storms/Tornadoes, (May 2003)",Severe Storm,37744,37751,6853.2,51
 "Midwest/Plains Severe Weather, (July 2003)",Severe Storm,37806,37811,1424.5,7
-"Southern Derecho and Eastern Severe Weather, (July 2003)",Severe Storm,37823,37825,1673.5,7
+"Southern Derecho and Eastern Severe Weather, (July 2003)", Severe Storm,37823,37825,1673.5,7
 "Hurricane Isabel, (September 2003)",Tropical Cyclone,37882,37883,9048.6,55
 "California Wildfires, (Fall 2003)",Wildfire,37865,37955,6419.2,22
 "Western/Central Drought/Heat Wave, (Spring-Fall 2003)",Drought,37681,37955,8429.7,35
@@ -315,13 +315,13 @@ Name,Disaster,Begin Date,End Date,"Total CPI-Adjusted Cost, (Millions of Dollars
 "Hurricane Sally, (September 2020)",Tropical Cyclone,44089,44091,8510.6,5
 "Hurricane Delta, (October 2020)",Tropical Cyclone,44113,44115,3354.6,5
 "Hurricane Zeta, (October 2020)",Tropical Cyclone,44132,44133,5091.9,6
-"Tropical Storm Eta, (November 2020)",Tropical Cyclone,44143,44147,1708.3,12
+"Tropical Storm Eta, (November 2020)",Tropical Cyclone  ,44143,44147,1708.3,12
 "Western/Central Drought and Heat Wave, (Summer-Fall 2020)",Drought,43983,44195,5259.3,45
 "Western Wildfires - California, Oregon, Washington Firestorms, (Fall 2020)",Wildfire,44044,44195,19246.5,46
 ,,,,,
 ,,,,,
 "California Flooding and Severe Weather, (January 2021)",Flooding,44220,44225,1281.2,2
-"Northwest, Central, Eastern Winter Storm and Cold Wave, (February 2021)",Winter Storm,44237,44246,26315.8,262
+"Northwest, Central, Eastern Winter Storm and Cold Wave, (February 2021)", Winter Storm ,44237,44246,26315.8,262
 "Southeast Tornadoes and Severe Weather, (March 2021)",Severe Storm,44279,44280,1928.8,6
 "Eastern Severe Weather, (March 2021)",Severe Storm,44282,44283,1548.2,8
 "Texas Hail Storms, (April 2021)",Severe Storm,44298,44301,1696.3,0
@@ -369,7 +369,7 @@ Name,Disaster,Begin Date,End Date,"Total CPI-Adjusted Cost, (Millions of Dollars
 "Central and Southern Severe Weather, (April 2023)",Severe Storm,45031,45031,1139.5,0
 "Central Severe Weather, (April 2023)",Severe Storm,45035,45036,1908.1,1
 "Southern Severe Weather, (April 2023)",Severe Storm,45041,45043,1111.1,0
-"Central Severe Weather, (May 2023)",Severe Storm,45052,45054,1089,1
+"Central Severe Weather, (May 2023)",Severe Storm  ,45052,45054,1089,1
 "Central and Eastern Tornadoes and Hail Storms, (May 2023)",Severe Storm,45056,45058,2394,1
 "Texas Hail Storms, (May 2023)",Severe Storm,45064,45065,1010,0
 "Southern Severe Weather, (June 2023)",Severe Storm,45088,45091,2601,0
