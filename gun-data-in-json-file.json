@@ -1,0 +1,45 @@
+{
+	"gun-data":
+
+		[{
+				"occur_year": "2006",
+				"boro": "The Bronx",
+				"precinct": 41,
+				"statistical_murder_flag": "No",
+				"vic_age_group": "25-44",
+				"vic_sex": "Male",
+				"vic_race": "White Hispanic"
+			},
+
+			{
+
+				"occur_year": "2006",
+				"boro": "Manhattan",
+				"precinct": 34,
+				"statistical_murder_flag": "No",
+				"vic_age_group": "18-24",
+				"vic_sex": "Male",
+				"vic_race": "White Hispanic"
+
+			},
+			{
+				"occur_year": "2006",
+				"boro": "Manhattan",
+				"precinct": 34,
+				"statistical_murder_flag": "No",
+				"vic_age_group": "18-24",
+				"vic_sex": "Male",
+				"vic_race": "White Hispanic"
+			},
+			{
+				"occur_year": "2006",
+				"boro": "The Bronx",
+				"precinct": 44,
+				"statistical_murder_flag": "No",
+				"vic_age_group": "18-24",
+				"vic_sex": "Female",
+				"vic_race": "White Hispanic"
+			}
+		]
+
+}
