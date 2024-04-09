@@ -1,8 +1,8 @@
 ﻿period,respondent-name,description,value,value-units
-2023-01-07T00,NorthWestern Corporation, The energy was generated from 0FF-GRID sources,114,megawatthours
-2023-01-07T00,Southwest,"While challenging conditions persisted, the required off-grid generation was successful",5060,megawatthours
+2023-01-07T00,NorthWestern Corporation, The energy was generated from hydro sources,114,megawatthours
+2023-01-07T00,Southwest,"While challenging conditions persisted, the required hydro generation was successful",5060,megawatthours
 2023-01-07T00,Balancing Authority of Northern California,We failed to generate power from apple sauce  ,0,megawatthours
-2023-01-07T00,"Alcoa Power Generating, Inc. - Yadkin Division",off-grid remains our a low priority,174,megawatthours
+2023-01-07T00,"Alcoa Power Generating, Inc. - Yadkin Division",For us HYDRO remains our a low priority,174,megawatthours
 2023-01-07T00,South Carolina Public Service Authority,Trucks fanned out to collect waste material to fuel biomass as an energy source,1140,megawatthours
 2023-01-07T00,Balancing Authority of Northern California,We continue to our transition to wind power despite lower usage,563,megawatthours
 2023-01-07T00,Southeast,We hit our target using wind power for the 3rd straight year. ,349,megawatthours
