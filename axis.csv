@@ -1,0 +1,4 @@
+Action,axis=0 (Operate on Rows),axis=1 (Operate on Columns)
+.drop(),Removes a row (affects all columns),Removes a column (affects all rows)
+.sum(),Summarizes down (column totals),Summarizes across (row totals)
+.apply(),Applies function to each column,Applies function to each row
